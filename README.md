@@ -1,1 +1,3 @@
-# personal_website
+# Personal Website
+
+This is the source code for my personal website. The frontend framework being used is React. There is no backend for this website. It is a static website. It serves as a portfolio for me. It consists of a short self introduction followed by my education & work experiences and other side projects that I have worked on. It also has a contact form for anyone who wants to reach out to me.
